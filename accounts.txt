@@ -1,0 +1,3 @@
+1001|tejendra|1234|200.00|Savings
+1002|Ujjval sekra|1234|65000.00|Savings
+1003|tapish jain|9667|15000.00|Savings

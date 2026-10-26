@@ -1,0 +1,4 @@
+1001|Opening Deposit|200.00|Tue Oct 13 22:12:41 2026
+1002|Opening Deposit|65000.00|Wed Oct 14 11:02:08 2026
+1003|Opening Deposit|10000.00|Wed Oct 14 11:25:13 2026
+1003|Deposit|5000.00|Wed Oct 14 11:27:18 2026
